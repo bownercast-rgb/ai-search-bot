@@ -22,7 +22,7 @@ def perform_upgraded_search():
     topics = {
         "AI 自动化": "AI Agent 社交媒体自动发布工具、n8n/Make 自动化流最新开源项目",
         "有色金属期货": "LME 铝、锂、铜今日价格走势及 SHFE 铝锭库存变化分析",
-        "先进化工材料": "AI 服务器浸没式冷却材料、锂电池水性粘结剂 (PAA/CMC) 研发进展"
+        "先进化工材料": "AI 大模型新技术新应用、电池、锂电池粘结剂 (PAA/SAR) 研发进展"
     }
     
     report_content = f"# 📊 定制化行业深度日报 ({datetime.now().strftime('%Y-%m-%d')})\n\n"
